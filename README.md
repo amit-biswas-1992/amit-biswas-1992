@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **System Design, Kafka, Kubernetes, Networking**
 
-- 💬 Ask me about **NodeJS, NestJS, System Design**
+- 💬 Ask me about **NodeJS, NestJS, System Design, Oracle Database, Database optimization, ReactJS**
 
 - 📫 How to reach me **amit.biswas199202@gmail.com**
 
