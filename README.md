@@ -12,10 +12,6 @@
   </p>
 </div>
 
-<div>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=iam-alamgir&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</div>
 
 - 🔭 I’m currently working on [CI-CD-NodeJS-Project-With-Github-Actions](https://github.com/amit-biswas-1992/CI-CD-NodeJS-Project-With-Github-Actions)
 
