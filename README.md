@@ -4,6 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-biswas-1992&label=Profile%20views&color=0e75b6&style=flat" alt="amit-biswas-1992" /> </p>
 
+---
+<div>
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/iam-alamgir/count.svg" />
+  </p>
+</div>
+
+<div>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=iam-alamgir&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</div>
+
 - 🔭 I’m currently working on [CI-CD-NodeJS-Project-With-Github-Actions](https://github.com/amit-biswas-1992/CI-CD-NodeJS-Project-With-Github-Actions)
 
 - 🌱 I’m currently learning **System Design, Kafka, Kubernetes, Networking**
