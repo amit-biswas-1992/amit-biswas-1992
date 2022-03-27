@@ -8,7 +8,7 @@
 <div>
   <p align="center"> 
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/iam-alamgir/count.svg" />
+    <img src="https://profile-counter.glitch.me/amit-biswas-1992/count.svg" />
   </p>
 </div>
 
