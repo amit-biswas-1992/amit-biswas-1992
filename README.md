@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [CI-CD-NodeJS-Project-With-Github-Actions](https://github.com/amit-biswas-1992/CI-CD-NodeJS-Project-With-Github-Actions)
 
-- 🌱 I’m currently learning **System Design, Kafka, Kubernetes, Networking**
+- 🌱 I’m currently learning **System Design, Kafka, Kubernetes, Networking, Operating System, DevOps, Problem Solving**
 
 - 💬 Ask me about **NodeJS, NestJS, System Design, Oracle Database, Database optimization, ReactJS**
 
