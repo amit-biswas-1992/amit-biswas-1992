@@ -34,4 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-biswas-1992&show_icons=true&locale=en&layout=compact" alt="amit-biswas-1992" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-biswas-1992&show_icons=true&locale=en" alt="amit-biswas-1992" /></p>
