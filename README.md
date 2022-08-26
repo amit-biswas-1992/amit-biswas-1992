@@ -13,7 +13,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [CI-CD-NodeJS-Project-With-Github-Actions](https://github.com/amit-biswas-1992/google-kickstart-2022)
+- 🔭 I’m currently working on [Google Kickstart 2022 Typescript Implementations](https://github.com/amit-biswas-1992/google-kickstart-2022)
 
 - 🌱 I’m currently learning **System Design, Kafka, Kubernetes, Networking, Operating System, DevOps, Problem Solving**
 
