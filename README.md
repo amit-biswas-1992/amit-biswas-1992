@@ -13,9 +13,9 @@
 </div>
 
 
-- 🔭 I’m currently working on [Google Kickstart 2022 Typescript Implementations](https://github.com/amit-biswas-1992/google-kickstart-2022)
+- 🔭 I’m currently working on [Data Sturcture and Algo Typescript and Java implmentation](https://github.com/amit-biswas-1992/data-structure-and-algo-implementation)
 
-- 🌱 I’m currently learning **System Design, Kafka, Kubernetes, Networking, Operating System, DevOps, Problem Solving**
+- 🌱 I’m currently learning **System Design, Graph Theroy, Kafka, Kubernetes, Networking, Operating System, DevOps, Problem Solving**
 
 - 💬 Ask me about **NodeJS, NestJS, System Design, Oracle Database, Database optimization, ReactJS, NextJS, Java**
 
