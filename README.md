@@ -13,7 +13,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Data Sturcture and Algo in Typescript and Java implmentation](https://github.com/amit-biswas-1992/data-structure-and-algo-implementation)
+- 🔭 I’m currently working on [Data Sturcture and Algo - Typescript and Java implmentation](https://github.com/amit-biswas-1992/data-structure-and-algo-implementation)
 
 - 🌱 I’m currently learning **System Design, Graph Theroy, Kafka, Kubernetes, Networking, Operating System, DevOps, Problem Solving**
 
