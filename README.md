@@ -13,7 +13,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Terraform, Kafka, Kubernetes, Apache Spark**
+- 🌱 I’m currently learning **Generative AI, Vector Database, Terraform, Kafka, Kubernetes, Apache Spark**
 
 - 💬 Experienced with **Java, NodeJS, NestJS, System Design, Oracle Database, PostgreSQL, ReactJS, NextJS, Java, Docker, DevOps**
 
