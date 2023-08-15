@@ -13,11 +13,9 @@
 </div>
 
 
-- 🔭 I’m currently working on [Data Sturcture and Algo - Typescript and Java implmentation](https://github.com/amit-biswas-1992/data-structure-and-algo-implementation)
+- 🌱 I’m currently learning **Terraform, Kafka, Kubernetes, Apache Spark**
 
-- 🌱 I’m currently learning **System Design, Nginx, Distributed System, Digital Ocean, Aws Services, Graph Theroy, Kafka, Kubernetes, Networking, Operating System, DevOps, Problem Solving**
-
-- 💬 Ask me about **NodeJS, NestJS, System Design, Oracle Database, Database optimization, ReactJS, NextJS, Java**
+- 💬 Experienced with **Java, NodeJS, NestJS, System Design, Oracle Database, PostgreSQL, ReactJS, NextJS, Java, Docker, DevOps**
 
 - 📫 How to reach me **amit.biswas199202@gmail.com**
 
