@@ -5,12 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-biswas-1992&label=Profile%20views&color=0e75b6&style=flat" alt="amit-biswas-1992" /> </p>
 
 ---
-<div>
-  <p align="center"> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/amit-biswas-1992/count.svg" />
-  </p>
-</div>
 
 
 - 🌱 I’m currently learning **Generative AI, Vector Database, Terraform, Kafka, Kubernetes, Apache Spark**
