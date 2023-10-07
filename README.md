@@ -1,6 +1,6 @@
 # amitbiswas
 <h1 align="center">Hi 👋, I'm Amit Biswas</h1>
-<h3 align="center">Passion for Software Engineering</h3>
+<h3 align="center">Passionate for Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-biswas-1992&label=Profile%20views&color=0e75b6&style=flat" alt="amit-biswas-1992" /> </p>
 
