@@ -7,7 +7,7 @@
 ---
 
 
-- 🌱 I’m currently learning **Generative AI, Vector Database, Terraform, Kafka, Kubernetes, Apache Spark**
+- 🌱 I’m currently learning **AI Agent Building, Rag based apps, React Native, Flutter, Production Level Go services, n8n**
 
 - 💬 Experienced with **Java, NodeJS, NestJS, System Design, Oracle Database, PostgreSQL, ReactJS, NextJS, Java, Docker, DevOps**
 
